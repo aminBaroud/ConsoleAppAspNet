@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhu7T/nwDDFOXe8BrOgW/9c1g14Jz8ZdJhl+zrSYDY5nJE9d/l8gnL/5YK8OaJma1DnoFQmnx46wUL6XsXTRnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HUAWEI\\Desktop\\AspProjects\\BelleBoucheeConsoleApp\\BelleBoucheeConsoleApp\\BelleBoucheeConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HUAWEI\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-preview.3.23174.8\\microsoft.extensions.dependencyinjection.8.0.0-preview.3.23174.8.nupkg.sha512",
+    "C:\\Users\\HUAWEI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.3.23174.8\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.3.23174.8.nupkg.sha512"
+  ],
+  "logs": []
+}
